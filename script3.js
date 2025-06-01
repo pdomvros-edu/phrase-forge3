@@ -203,7 +203,7 @@ const transformationExercises = [
         sentence1: "I never had any doubt that she would eventually succeed.",
         givenWord: "crossed",
         prefix: "It never",
-        suffix: "she would eventually succeed.",
+        suffix: "he would eventually get promoted.",
         correctAnswer: ["crossed my mind that"],
         minWords: 3,
         maxWords: 8,
@@ -310,7 +310,7 @@ const transformationExercises = [
     },
     {
         id: 28,
-        sentence1: "The company aims to increase its profits by 15% next year.",
+        sentence1: "The company aims to increase its profits by 15% next year. ",
         givenWord: "set",
         prefix: "The company has",
         suffix: "its profits by 15% next year.",
@@ -497,7 +497,7 @@ const transformationExercises = [
     },
     {
         id: 45,
-        sentence1: "She has been trying to improve her English for a long time.",
+        sentence1: "She has been trying to improve her English for a long time. ",
         givenWord: "efforts",
         prefix: "She has been making",
         suffix: "her English for a long time.",
@@ -560,6 +560,1656 @@ const transformationExercises = [
         minWords: 3,
         maxWords: 8,
         status: 'pending'
+    },
+    {
+        id: 51,
+        sentence1: "It's impossible to deny that he was involved in the crime.",
+        givenWord: "no",
+        prefix: "There's",
+        suffix: "he was involved in the crime.",
+        correctAnswer: ["no denying the fact that"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 52,
+        sentence1: "She didn't want to get involved in the political debate.",
+        givenWord: "clear",
+        prefix: "She wanted to steer",
+        suffix: "the political debate.",
+        correctAnswer: ["clear of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 53,
+        sentence1: "He was completely unaware of the consequences of his actions.",
+        givenWord: "conscious",
+        prefix: "He was not at all",
+        suffix: "the consequences of his actions.",
+        correctAnswer: ["conscious of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 54,
+        sentence1: "I wish I had saved more money when I was younger.",
+        givenWord: "regretting",
+        prefix: "I'm",
+        suffix: "more money when I was younger.",
+        correctAnswer: ["regretting not having saved"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 55,
+        sentence1: "The heavy traffic caused the delay of the bus.",
+        givenWord: "resulted",
+        prefix: "The heavy traffic",
+        suffix: "the bus's delay.",
+        correctAnswer: ["resulted in"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 56,
+        sentence1: "You must adhere strictly to these safety regulations.",
+        givenWord: "adherence",
+        prefix: "Strict",
+        suffix: "these safety regulations is mandatory.",
+        correctAnswer: ["adherence to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 57,
+        sentence1: "He is very skillful at negotiating deals.",
+        givenWord: "flair",
+        prefix: "He has a real",
+        suffix: "deals.",
+        correctAnswer: ["flair for negotiating"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 58,
+        sentence1: "Very few people attend the evening classes.",
+        givenWord: "turnout",
+        prefix: "There's a very low",
+        suffix: "the evening classes.",
+        correctAnswer: ["turnout for"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 59,
+        sentence1: "The company is unwilling to compromise on its principles.",
+        givenWord: "prepared",
+        prefix: "The company is not",
+        suffix: "on its principles.",
+        correctAnswer: ["prepared to compromise"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 60,
+        sentence1: "It's important to keep yourself informed about current affairs.",
+        givenWord: "abreast",
+        prefix: "It's important to keep",
+        suffix: "current affairs.",
+        correctAnswer: ["abreast of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 61,
+        sentence1: "His arrogance makes him unpopular with his team members.",
+        givenWord: "puts",
+        prefix: "His arrogance",
+        suffix: "his team members.",
+        correctAnswer: ["puts him off with"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 62,
+        sentence1: "I really don't feel like watching a movie tonight.",
+        givenWord: "mood",
+        prefix: "I'm not in the",
+        suffix: "a movie tonight.",
+        correctAnswer: ["mood for watching"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 63,
+        sentence1: "They only managed to escape because of the quick thinking of the police.",
+        givenWord: "had",
+        prefix: "",
+        suffix: "not been for the quick thinking of the police, they wouldn't have escaped.",
+        correctAnswer: ["Had it"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 64,
+        sentence1: "She couldn't stop worrying about her son's safety.",
+        givenWord: "mind",
+        prefix: "Her son's safety was constantly",
+        suffix: ".",
+        correctAnswer: ["on her mind"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 65,
+        sentence1: "I never had any doubt that he would eventually get promoted.",
+        givenWord: "crossed",
+        prefix: "It never",
+        suffix: "he would eventually get promoted.",
+        correctAnswer: ["crossed my mind that"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 66,
+        sentence1: "It's pointless to dwell on past mistakes.",
+        givenWord: "point",
+        prefix: "There's",
+        suffix: "on past mistakes.",
+        correctAnswer: ["no point in dwelling"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 67,
+        sentence1: "They blamed him for the failure of the project.",
+        givenWord: "placed",
+        prefix: "They",
+        suffix: "for the failure of the project.",
+        correctAnswer: ["placed the blame on him"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 68,
+        sentence1: "He is extremely optimistic about the company's future.",
+        givenWord: "rosy",
+        prefix: "He takes a",
+        suffix: "the company's future.",
+        correctAnswer: ["rosy view of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 69,
+        sentence1: "You can always count on him to help you out.",
+        givenWord: "rely",
+        prefix: "You can always",
+        suffix: "to help you out.",
+        correctAnswer: ["rely on him"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 70,
+        sentence1: "She didn't want to sign the contract until she had read all the clauses.",
+        givenWord: "reluctance",
+        prefix: "It was with some",
+        suffix: "the contract until she had read all the clauses.",
+        correctAnswer: ["reluctance that she signed"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 71,
+        sentence1: "I couldn't help but feel sorry for her.",
+        givenWord: "but",
+        prefix: "I could do nothing",
+        suffix: "sorry for her.",
+        correctAnswer: ["but feel"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 72,
+        sentence1: "He promised to repay the loan by the end of the month.",
+        givenWord: "word",
+        prefix: "He",
+        suffix: "repay the loan by the end of the month.",
+        correctAnswer: ["gave his word to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 73,
+        sentence1: "People say that she is an exceptionally talented artist.",
+        givenWord: "believed",
+        prefix: "She is",
+        suffix: "an exceptionally talented artist.",
+        correctAnswer: ["believed to be"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 74,
+        sentence1: "She completely ignored his advice.",
+        givenWord: "notice",
+        prefix: "She took no",
+        suffix: "his advice.",
+        correctAnswer: ["notice of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 75,
+        sentence1: "He was so shocked that he was speechless.",
+        givenWord: "loss",
+        prefix: "He was at a",
+        suffix: "due to shock.",
+        correctAnswer: ["loss for words"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 76,
+        sentence1: "The government introduced new legislation to protect consumers.",
+        givenWord: "brought",
+        prefix: "New legislation was",
+        suffix: "to protect consumers.",
+        correctAnswer: ["brought in"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 77,
+        sentence1: "His resignation was completely unexpected.",
+        givenWord: "came",
+        prefix: "His resignation",
+        suffix: "a complete surprise to everyone.",
+        correctAnswer: ["came as"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 78,
+        sentence1: "I would prefer you not to play loud music after midnight.",
+        givenWord: "rather",
+        prefix: "I would",
+        suffix: "play loud music after midnight.",
+        correctAnswer: ["rather you didn't"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 79,
+        sentence1: "He tried to remain neutral in the argument.",
+        givenWord: "sides",
+        prefix: "He tried not to",
+        suffix: "in the argument.",
+        correctAnswer: ["take sides"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 80,
+        sentence1: "It's very likely that she will succeed in her new venture.",
+        givenWord: "strong",
+        prefix: "There's a",
+        suffix: "succeed in her new venture.",
+        correctAnswer: ["strong chance that she'll"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 81,
+        sentence1: "She is always complaining about trivial things.",
+        givenWord: "fault",
+        prefix: "She is always finding",
+        suffix: "trivial things.",
+        correctAnswer: ["fault with"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 82,
+        sentence1: "He's highly unlikely to change his mind now.",
+        givenWord: "prospect",
+        prefix: "There's little",
+        suffix: "his mind now.",
+        correctAnswer: ["prospect of him changing"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 83,
+        sentence1: "I regret not having taken your advice.",
+        givenWord: "wished",
+        prefix: "I",
+        suffix: "your advice.",
+        correctAnswer: ["wished I had taken"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 84,
+        sentence1: "She has been trying very hard to master the guitar.",
+        givenWord: "efforts",
+        prefix: "She has been making considerable",
+        suffix: "the guitar.",
+        correctAnswer: ["efforts to master"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 85,
+        sentence1: "You should contribute more to the team effort.",
+        givenWord: "part",
+        prefix: "You should play a bigger",
+        suffix: "the team effort.",
+        correctAnswer: ["part in"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 86,
+        sentence1: "The new proposals were heavily criticized by the public.",
+        givenWord: "came",
+        prefix: "The new proposals",
+        suffix: "heavy criticism from the public.",
+        correctAnswer: ["came in for"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 87,
+        sentence1: "His sudden arrival surprised everyone.",
+        givenWord: "took",
+        prefix: "His sudden arrival",
+        suffix: "surprise.",
+        correctAnswer: ["took everyone by"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 88,
+        sentence1: "She finally agreed to the terms after lengthy negotiations.",
+        givenWord: "eventually",
+        prefix: "After lengthy negotiations, she",
+        suffix: "the terms.",
+        correctAnswer: ["eventually agreed to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 89,
+        sentence1: "I strongly advise you to reconsider your career choice.",
+        givenWord: "well",
+        prefix: "You would",
+        suffix: "your career choice.",
+        correctAnswer: ["do well to reconsider"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 90,
+        sentence1: "He found it difficult to concentrate during the long meeting.",
+        givenWord: "difficulty",
+        prefix: "He had",
+        suffix: "during the long meeting.",
+        correctAnswer: ["difficulty concentrating"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 91,
+        sentence1: "His rudeness was completely out of character.",
+        givenWord: "like",
+        prefix: "It was not",
+        suffix: "so rude.",
+        correctAnswer: ["like him to be"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 92,
+        sentence1: "They decided to get rid of the old database system.",
+        givenWord: "away",
+        prefix: "They decided to do",
+        suffix: "the old database system.",
+        correctAnswer: ["away with"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 93,
+        sentence1: "She is completely indifferent to his pleas for help.",
+        givenWord: "interest",
+        prefix: "She takes no",
+        suffix: "his pleas for help.",
+        correctAnswer: ["interest in"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 94,
+        sentence1: "I can't stand people who constantly interrupt.",
+        givenWord: "put",
+        prefix: "I can't",
+        suffix: "people who constantly interrupt.",
+        correctAnswer: ["put up with"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 95,
+        sentence1: "He tried his best to win the chess tournament.",
+        givenWord: "efforts",
+        prefix: "He made every",
+        suffix: "win the chess tournament.",
+        correctAnswer: ["effort to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 96,
+        sentence1: "In my opinion, the new law is unfair.",
+        givenWord: "view",
+        prefix: "In my",
+        suffix: "the new law is unfair.",
+        correctAnswer: ["view, I think"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 97,
+        sentence1: "The company decided to start fresh after the scandal.",
+        givenWord: "wipe",
+        prefix: "The company decided to",
+        suffix: "clean after the scandal.",
+        correctAnswer: ["wipe the slate"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 98,
+        sentence1: "Their attempts to rescue the cat were ultimately unsuccessful.",
+        givenWord: "no",
+        prefix: "Their attempts to rescue the cat were",
+        suffix: ".",
+        correctAnswer: ["of no avail"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 99,
+        sentence1: "I deeply regret having lied to you.",
+        givenWord: "wished",
+        prefix: "I",
+        suffix: "to you.",
+        correctAnswer: ["wished I hadn't lied"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 100,
+        sentence1: "People generally believe that he is a reliable source of information.",
+        givenWord: "widely",
+        prefix: "He is",
+        suffix: "a reliable source of information.",
+        correctAnswer: ["widely believed to be"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 101,
+        sentence1: "It's absolutely essential that you don't reveal this confidential information.",
+        givenWord: "account",
+        prefix: "On no",
+        suffix: "this confidential information to anyone.",
+        correctAnswer: ["account must you reveal"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 102,
+        sentence1: "He was so engrossed in his research that he forgot about dinner.",
+        givenWord: "lost",
+        prefix: "He was so",
+        suffix: "his research that he forgot about dinner.",
+        correctAnswer: ["lost in"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 103,
+        sentence1: "I never imagined that she would become such a successful entrepreneur.",
+        givenWord: "dream",
+        prefix: "I never",
+        suffix: "she would become such a successful entrepreneur.",
+        correctAnswer: ["dreamt that"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 104,
+        sentence1: "She has an excellent understanding of modern art history.",
+        givenWord: "versed",
+        prefix: "She is very",
+        suffix: "modern art history.",
+        correctAnswer: ["well versed in"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 105,
+        sentence1: "The city council intends to build a new sports complex next year.",
+        givenWord: "plans",
+        prefix: "The city council has",
+        suffix: "a new sports complex next year.",
+        correctAnswer: ["plans to build"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 106,
+        sentence1: "You are not permitted to enter the restricted area without authorization.",
+        givenWord: "prohibited",
+        prefix: "Entry into the restricted area is strictly",
+        suffix: "without authorization.",
+        correctAnswer: ["prohibited"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 107,
+        sentence1: "He felt completely relaxed and uninhibited at the jazz club.",
+        givenWord: "ease",
+        prefix: "He felt completely at",
+        suffix: "at the jazz club.",
+        correctAnswer: ["ease"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 108,
+        sentence1: "He was too proud to ask for help with his financial problems.",
+        givenWord: "swallowed",
+        prefix: "His pride prevented him from",
+        suffix: "ask for help with his financial problems.",
+        correctAnswer: ["swallowing his pride to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 109,
+        sentence1: "The sudden unexpected news made her burst into tears.",
+        givenWord: "broke",
+        prefix: "On hearing the sudden unexpected news, she",
+        suffix: ".",
+        correctAnswer: ["broke down in tears"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 110,
+        sentence1: "He found it difficult to adapt to the new working environment.",
+        givenWord: "accustomed",
+        prefix: "He had difficulty",
+        suffix: "the new working environment.",
+        correctAnswer: ["becoming accustomed to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 111,
+        sentence1: "Her failure to get the scholarship was a great disappointment.",
+        givenWord: "came",
+        prefix: "Her failure to get the scholarship",
+        suffix: "a great disappointment.",
+        correctAnswer: ["came as"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 112,
+        sentence1: "He rarely expresses his feelings openly.",
+        givenWord: "vent",
+        prefix: "He rarely gives",
+        suffix: "his feelings openly.",
+        correctAnswer: ["vent to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 113,
+        sentence1: "The committee suggested postponing the decision until next week.",
+        givenWord: "put",
+        prefix: "The committee suggested",
+        suffix: "the decision until next week.",
+        correctAnswer: ["putting off"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 114,
+        sentence1: "She only wears casual clothes if she's staying at home.",
+        givenWord: "unless",
+        prefix: "She doesn't wear casual clothes",
+        suffix: "at home.",
+        correctAnswer: ["unless she's staying"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 115,
+        sentence1: "I only understood the joke after he explained it to me.",
+        givenWord: "until",
+        prefix: "It wasn't",
+        suffix: "I understood the joke.",
+        correctAnswer: ["until he explained it that"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 116,
+        sentence1: "His dedication to his work is truly admirable.",
+        givenWord: "entirely",
+        prefix: "He is",
+        suffix: "his work.",
+        correctAnswer: ["entirely devoted to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 117,
+        sentence1: "I'm not in the mood for going out tonight.",
+        givenWord: "feel",
+        prefix: "I don't",
+        suffix: "out tonight.",
+        correctAnswer: ["feel like going"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 118,
+        sentence1: "The new regulations will take effect from the beginning of next month.",
+        givenWord: "into",
+        prefix: "The new regulations will come",
+        suffix: "from the beginning of next month.",
+        correctAnswer: ["into force"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 119,
+        sentence1: "He finds great pleasure in helping others.",
+        givenWord: "derives",
+        prefix: "He",
+        suffix: "helping others.",
+        correctAnswer: ["derives great pleasure from"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 120,
+        sentence1: "There's no point in worrying about things you can't change.",
+        givenWord: "use",
+        prefix: "It's no",
+        suffix: "things you can't change.",
+        correctAnswer: ["use worrying about"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 121,
+        sentence1: "He denied that he had taken the money.",
+        givenWord: "denied",
+        prefix: "He",
+        suffix: "the money.",
+        correctAnswer: ["denied taking"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 122,
+        sentence1: "She managed to finish the report despite numerous distractions.",
+        givenWord: "succeed",
+        prefix: "She managed to",
+        suffix: "the report despite numerous distractions.",
+        correctAnswer: ["succeed in finishing"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 123,
+        sentence1: "It's important to consider all aspects of the problem before making a decision.",
+        givenWord: "account",
+        prefix: "You should take into",
+        suffix: "of the problem before making a decision.",
+        correctAnswer: ["account all aspects"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 124,
+        sentence1: "His interpretation of the poem was very different from mine.",
+        givenWord: "difference",
+        prefix: "There was a considerable",
+        suffix: "his interpretation of the poem and mine.",
+        correctAnswer: ["difference between"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 125,
+        sentence1: "The students are certain to pass their exams.",
+        givenWord: "bound",
+        prefix: "The students are",
+        suffix: "their exams.",
+        correctAnswer: ["bound to pass"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 126,
+        sentence1: "I find it very hard to memorize long lists of vocabulary.",
+        givenWord: "difficulty",
+        prefix: "I have great",
+        suffix: "long lists of vocabulary.",
+        correctAnswer: ["difficulty memorizing"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 127,
+        sentence1: "She has been trying to master French for years.",
+        givenWord: "efforts",
+        prefix: "She has been making tireless",
+        suffix: "French for years.",
+        correctAnswer: ["efforts to master"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 128,
+        sentence1: "The company decided to make some employees redundant.",
+        givenWord: "redundancies",
+        prefix: "The company decided to",
+        suffix: ".",
+        correctAnswer: ["make some redundancies"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 129,
+        sentence1: "He was completely unaware of the public's opinion of him.",
+        givenWord: "knowledge",
+        prefix: "He had no",
+        suffix: "the public's opinion of him.",
+        correctAnswer: ["knowledge whatsoever of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 130,
+        sentence1: "I never intended to embarrass you in front of everyone.",
+        givenWord: "furthest",
+        prefix: "It was the",
+        suffix: "embarrass you in front of everyone.",
+        correctAnswer: ["furthest thing from my mind to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 131,
+        sentence1: "Her new song is inferior to her previous hit.",
+        givenWord: "comparison",
+        prefix: "Her new song doesn't",
+        suffix: "her previous hit.",
+        correctAnswer: ["bear comparison with"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 132,
+        sentence1: "He was so furious that he started shouting uncontrollably.",
+        givenWord: "rage",
+        prefix: "He was in such a",
+        suffix: "he started shouting uncontrollably.",
+        correctAnswer: ["rage that"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 133,
+        sentence1: "You will only get access to the building if you have a valid ID.",
+        givenWord: "condition",
+        prefix: "Only on",
+        suffix: "get access to the building.",
+        correctAnswer: ["condition that you have a valid ID will you"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 134,
+        sentence1: "He readily accepted the challenging assignment.",
+        givenWord: "hesitation",
+        prefix: "He accepted the challenging assignment without",
+        suffix: ".",
+        correctAnswer: ["any hesitation"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 135,
+        sentence1: "The company's financial situation has improved significantly.",
+        givenWord: "improvement",
+        prefix: "There has been a significant",
+        suffix: "the company's financial situation.",
+        correctAnswer: ["improvement in"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 136,
+        sentence1: "It's pointless to offer him any more advice.",
+        givenWord: "worth",
+        prefix: "It's not",
+        suffix: "him any more advice.",
+        correctAnswer: ["worth offering"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 137,
+        sentence1: "He started coughing uncontrollably as soon as he entered the smoky room.",
+        givenWord: "barely",
+        prefix: "He had",
+        suffix: "the smoky room when he started coughing uncontrollably.",
+        correctAnswer: ["barely entered"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 138,
+        sentence1: "Her reaction to the news was very surprising.",
+        givenWord: "came",
+        prefix: "Her reaction to the news",
+        suffix: "a great surprise.",
+        correctAnswer: ["came as"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 139,
+        sentence1: "He succeeded in developing a new vaccine.",
+        givenWord: "managed",
+        prefix: "He",
+        suffix: "a new vaccine.",
+        correctAnswer: ["managed to develop"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 140,
+        sentence1: "It's highly probable that the team will win the championship.",
+        givenWord: "likelihood",
+        prefix: "There's a strong",
+        suffix: "the team winning the championship.",
+        correctAnswer: ["likelihood of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 141,
+        sentence1: "I wish I had paid more attention during the history lecture.",
+        givenWord: "only",
+        prefix: "If",
+        suffix: "more attention during the history lecture.",
+        correctAnswer: ["only I had paid"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 142,
+        sentence1: "She regrets not having pursued a career in medicine.",
+        givenWord: "wishes",
+        prefix: "She",
+        suffix: "a career in medicine.",
+        correctAnswer: ["wishes she had pursued"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 143,
+        sentence1: "They accused him of committing fraud.",
+        givenWord: "committed",
+        prefix: "He was",
+        suffix: "fraud.",
+        correctAnswer: ["accused of having committed"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 144,
+        sentence1: "It was impossible for us to attend the conference.",
+        givenWord: "out",
+        prefix: "Attending the conference was",
+        suffix: "us.",
+        correctAnswer: ["out of the question for"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 145,
+        sentence1: "The strict rules forced us to work overtime.",
+        givenWord: "had",
+        prefix: "We",
+        suffix: "by the strict rules.",
+        correctAnswer: ["had to work overtime"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 146,
+        sentence1: "He was very impressed by her artistic talent.",
+        givenWord: "impression",
+        prefix: "Her artistic talent",
+        suffix: "him.",
+        correctAnswer: ["made a great impression on"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 147,
+        sentence1: "I couldn't understand the complex instructions.",
+        givenWord: "sense",
+        prefix: "I couldn't make",
+        suffix: "the complex instructions.",
+        correctAnswer: ["sense of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 148,
+        sentence1: "She is reluctant to disclose her personal details.",
+        givenWord: "unwilling",
+        prefix: "She is",
+        suffix: "her personal details.",
+        correctAnswer: ["unwilling to disclose"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 149,
+        sentence1: "His laziness led to his dismissal from the job.",
+        givenWord: "consequence",
+        prefix: "His dismissal from the job was a",
+        suffix: "his laziness.",
+        correctAnswer: ["consequence of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 150,
+        sentence1: "You are not allowed to use cameras in this museum.",
+        givenWord: "strictly",
+        prefix: "The use of cameras in this museum is",
+        suffix: ".",
+        correctAnswer: ["strictly prohibited"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 151,
+        sentence1: "She finds great satisfaction in helping disadvantaged children.",
+        givenWord: "derives",
+        prefix: "She",
+        suffix: "helping disadvantaged children.",
+        correctAnswer: ["derives great satisfaction from"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 152,
+        sentence1: "It's impossible to predict the outcome of the negotiations.",
+        givenWord: "telling",
+        prefix: "There is",
+        suffix: "of the negotiations.",
+        correctAnswer: ["no telling what the outcome will be"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 153,
+        sentence1: "He was completely unaware of the negative impact of his decision.",
+        givenWord: "conscious",
+        prefix: "He was not at all",
+        suffix: "the negative impact of his decision.",
+        correctAnswer: ["conscious of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 154,
+        sentence1: "The company decided to reduce its workforce significantly.",
+        givenWord: "cut",
+        prefix: "The company decided to make a",
+        suffix: "its workforce.",
+        correctAnswer: ["cut in"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 155,
+        sentence1: "I never considered him a suitable candidate for such a demanding role.",
+        givenWord: "strike",
+        prefix: "He didn't",
+        suffix: "a suitable candidate for such a demanding role.",
+        correctAnswer: ["strike me as"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 156,
+        sentence1: "His rude remarks were completely uncalled for.",
+        givenWord: "account",
+        prefix: "His rude remarks were",
+        suffix: ". ",
+        correctAnswer: ["on no account justified"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 157,
+        sentence1: "She always avoids confronting difficult situations.",
+        givenWord: "shies",
+        prefix: "She always",
+        suffix: "difficult situations.",
+        correctAnswer: ["shies away from"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 158,
+        sentence1: "Only by working collaboratively can we achieve our goals.",
+        givenWord: "unless",
+        prefix: "We cannot achieve our goals",
+        suffix: "collaboratively.",
+        correctAnswer: ["unless we work"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 159,
+        sentence1: "He was so angry that he couldn't utter a single word.",
+        givenWord: "loss",
+        prefix: "He was at a",
+        suffix: "he was so angry.",
+        correctAnswer: ["loss for words because"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 160,
+        sentence1: "I wish I had paid more attention during the seminar.",
+        givenWord: "regretting",
+        prefix: "I'm",
+        suffix: "more attention during the seminar.",
+        correctAnswer: ["regretting not having paid"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 161,
+        sentence1: "It's futile to try and convince her otherwise.",
+        givenWord: "point",
+        prefix: "There's",
+        suffix: "and convince her otherwise.",
+        correctAnswer: ["no point in trying to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 162,
+        sentence1: "The bad weather prevented us from reaching the summit.",
+        givenWord: "account",
+        prefix: "On no",
+        suffix: "reach the summit.",
+        correctAnswer: ["account did we manage to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 163,
+        sentence1: "She is completely dedicated to her family.",
+        givenWord: "entirely",
+        prefix: "She is",
+        suffix: "her family.",
+        correctAnswer: ["entirely devoted to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 164,
+        sentence1: "His disappearance remains a complete mystery to everyone.",
+        givenWord: "no",
+        prefix: "There is",
+        suffix: "his disappearance.",
+        correctAnswer: ["no explanation whatsoever for"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 165,
+        sentence1: "The new policy will be implemented without delay.",
+        givenWord: "effect",
+        prefix: "The new policy will come",
+        suffix: "delay.",
+        correctAnswer: ["into effect without"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 166,
+        sentence1: "I never had any intention of hurting your feelings.",
+        givenWord: "least",
+        prefix: "The",
+        suffix: "hurt your feelings.",
+        correctAnswer: ["last thing I wanted was to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 167,
+        sentence1: "She is very good at understanding people's emotions.",
+        givenWord: "empathy",
+        prefix: "She has a great",
+        suffix: "people's emotions.",
+        correctAnswer: ["deal of empathy for"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 168,
+        sentence1: "He found it difficult to cope with the sudden pressure.",
+        givenWord: "trouble",
+        prefix: "He had",
+        suffix: "the sudden pressure.",
+        correctAnswer: ["trouble coping with"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 169,
+        sentence1: "The company is currently discussing potential mergers.",
+        givenWord: "under",
+        prefix: "Potential mergers are",
+        suffix: "by the company.",
+        correctAnswer: ["under discussion"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 170,
+        sentence1: "He was accused of bribery and corruption.",
+        givenWord: "allegations",
+        prefix: "He faced",
+        suffix: "bribery and corruption.",
+        correctAnswer: ["allegations of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 171,
+        sentence1: "His arrival was completely unexpected.",
+        givenWord: "came",
+        prefix: "His arrival",
+        suffix: "a complete surprise.",
+        correctAnswer: ["came as"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 172,
+        sentence1: "I'd prefer you to leave your shoes at the door.",
+        givenWord: "rather",
+        prefix: "I'd",
+        suffix: "your shoes at the door.",
+        correctAnswer: ["rather you left"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 173,
+        sentence1: "It's highly unlikely that she will change her mind now.",
+        givenWord: "prospect",
+        prefix: "There's little",
+        suffix: "her mind now.",
+        correctAnswer: ["prospect of her changing"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 174,
+        sentence1: "She constantly criticizes every decision I make.",
+        givenWord: "fault",
+        prefix: "She's always finding",
+        suffix: "every decision I make.",
+        correctAnswer: ["fault with"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 175,
+        sentence1: "He barely managed to finish the marathon.",
+        givenWord: "scrape",
+        prefix: "He only just",
+        suffix: "the marathon.",
+        correctAnswer: ["scraped through finishing"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 176,
+        sentence1: "He never fails to impress his colleagues with his innovative ideas.",
+        givenWord: "always",
+        prefix: "He",
+        suffix: "his colleagues with his innovative ideas.",
+        correctAnswer: ["always impresses"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 177,
+        sentence1: "The new regulations will affect all employees.",
+        givenWord: "implications",
+        prefix: "The new regulations will have",
+        suffix: "all employees.",
+        correctAnswer: ["implications for"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 178,
+        sentence1: "I regret not having learned to play a musical instrument.",
+        givenWord: "wished",
+        prefix: "I",
+        suffix: "to play a musical instrument.",
+        correctAnswer: ["wished I had learned"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 179,
+        sentence1: "His explanation was very confusing.",
+        givenWord: "make",
+        prefix: "I couldn't",
+        suffix: "his explanation.",
+        correctAnswer: ["make sense of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 180,
+        sentence1: "They were determined to complete the task by the deadline.",
+        givenWord: "intent",
+        prefix: "They were",
+        suffix: "the task by the deadline.",
+        correctAnswer: ["intent on completing"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 181,
+        sentence1: "She's highly skilled at organizing large events.",
+        givenWord: "flair",
+        prefix: "She has a remarkable",
+        suffix: "large events.",
+        correctAnswer: ["flair for organizing"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 182,
+        sentence1: "It's not worth trying to persuade him; he's too stubborn.",
+        givenWord: "point",
+        prefix: "There's",
+        suffix: "him; he's too stubborn.",
+        correctAnswer: ["no point in trying to persuade"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 183,
+        sentence1: "The company has seen a significant increase in sales this quarter.",
+        givenWord: "increase",
+        prefix: "There has been a significant",
+        suffix: "sales this quarter.",
+        correctAnswer: ["increase in"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 184,
+        sentence1: "Only when the sun set did we decide to pack up our picnic.",
+        givenWord: "until",
+        prefix: "It wasn't",
+        suffix: "we decided to pack up our picnic.",
+        correctAnswer: ["until the sun set that"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 185,
+        sentence1: "He's notoriously difficult to please.",
+        givenWord: "known",
+        prefix: "He's",
+        suffix: "difficult to please.",
+        correctAnswer: ["known for being"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 186,
+        sentence1: "I never doubted that he would eventually get over his illness.",
+        givenWord: "question",
+        prefix: "There was",
+        suffix: "eventually getting over his illness.",
+        correctAnswer: ["no question about him"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 187,
+        sentence1: "She rarely visits her relatives nowadays.",
+        givenWord: "hardly",
+        prefix: "She",
+        suffix: "her relatives nowadays.",
+        correctAnswer: ["hardly ever visits"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 188,
+        sentence1: "His remarks caused a lot of anger among the audience.",
+        givenWord: "gave",
+        prefix: "His remarks",
+        suffix: "among the audience.",
+        correctAnswer: ["gave rise to a lot of anger"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 189,
+        sentence1: "It's absolutely forbidden to light fires in this forest.",
+        givenWord: "account",
+        prefix: "On no",
+        suffix: "fires in this forest.",
+        correctAnswer: ["account are you to light"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 190,
+        sentence1: "The new software is a great improvement on the previous version.",
+        givenWord: "superior",
+        prefix: "The new software is far",
+        suffix: "the previous version.",
+        correctAnswer: ["superior to"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 191,
+        sentence1: "She is completely absorbed in her artistic creations.",
+        givenWord: "lost",
+        prefix: "She is completely",
+        suffix: "her artistic creations.",
+        correctAnswer: ["lost in"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 192,
+        sentence1: "He was dismissed due to his misconduct.",
+        givenWord: "resulted",
+        prefix: "His misconduct",
+        suffix: "his dismissal.",
+        correctAnswer: ["resulted in"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 193,
+        sentence1: "I regret not having studied harder for the exam.",
+        givenWord: "only",
+        prefix: "If",
+        suffix: "harder for the exam.",
+        correctAnswer: ["only I had studied"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 194,
+        sentence1: "You must consider all the consequences before acting.",
+        givenWord: "account",
+        prefix: "You must take into",
+        suffix: "before acting.",
+        correctAnswer: ["account all the consequences"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 195,
+        sentence1: "People say that she is a very influential figure.",
+        givenWord: "said",
+        prefix: "She is",
+        suffix: "a very influential figure.",
+        correctAnswer: ["said to be"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 196,
+        sentence1: "I finally understood the complex theory after hours of study.",
+        givenWord: "make",
+        prefix: "I finally managed to",
+        suffix: "the complex theory after hours of study.",
+        correctAnswer: ["make sense of"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 197,
+        sentence1: "He is very likely to agree to our terms.",
+        givenWord: "strong",
+        prefix: "There's a",
+        suffix: "agree to our terms.",
+        correctAnswer: ["strong likelihood that he'll"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 198,
+        sentence1: "She accepted the job offer without any hesitation.",
+        givenWord: "readiness",
+        prefix: "She accepted the job offer with",
+        suffix: ". ",
+        correctAnswer: ["great readiness"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 199,
+        sentence1: "His rude behavior was unacceptable under any circumstances.",
+        givenWord: "line",
+        prefix: "His rude behavior was completely",
+        suffix: "acceptable standards.",
+        correctAnswer: ["out of line with"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
+    },
+    {
+        id: 200,
+        sentence1: "It's pointless to complain about the decision now.",
+        givenWord: "use",
+        prefix: "It's ",
+        suffix: "the decision now.",
+        correctAnswer: ["no use complaining about"],
+        minWords: 3,
+        maxWords: 8,
+        status: 'pending'
     }
 ];
 
@@ -569,7 +2219,7 @@ let exercisesCompleted = 0;
 
 const questionsContainer = document.getElementById('questionsContainer');
 const checkAnswersBtn = document.getElementById('checkAnswersBtn');
-const skipExerciseBtn = document.getElementById('skipExerciseBtn'); // Get the skip button
+const skipExerciseBtn = document.getElementById('skipExerciseBtn');
 const nextExerciseBtn = document.getElementById('nextExerciseBtn');
 const exerciseFeedback = document.getElementById('exerciseFeedback');
 const currentScoreSpan = document.getElementById('currentScore');
@@ -584,7 +2234,7 @@ const dictionaryIframe = document.getElementById('dictionaryIframe');
 const showExampleAnswerBtn = document.getElementById('showExampleAnswerBtn');
 
 // Set total exercises count, excluding the example (id: 0)
-// This will correctly show 50 for Phrase Forge 3's initial batch
+// This will correctly show 200 for Phrase Forge 3's full set
 totalExercisesSpan.textContent = transformationExercises.length - 1;
 
 function updateWordCount(inputId, countSpanId) {
@@ -592,34 +2242,33 @@ function updateWordCount(inputId, countSpanId) {
     const countSpan = document.getElementById(countSpanId);
     if (inputField && countSpan) {
         const text = inputField.value.trim();
-        // Split by one or more whitespace characters
+        // Filter to ensure empty strings from multiple spaces are not counted as words
         const words = text === "" ? 0 : text.split(/\s+/).filter(word => word !== '').length;
         countSpan.textContent = `${words} words`;
     }
 }
 
-// Modified updateExerciseProgress to handle different statuses
-function updateExerciseProgress(exerciseId, newStatus) { // newStatus can be 'correct', 'incorrect', 'skipped', 'pending'
+function updateExerciseProgress(exerciseId, newStatus) {
     let listItem = document.getElementById(`progress-q${exerciseId}`);
     const exercise = transformationExercises.find(ex => ex.id === exerciseId);
 
-    if (exercise) {
-        // Only update if the new status is 'correct', or if the current status is 'pending' or 'incorrect' or 'skipped'.
-        // This prevents an incorrect/skipped from overwriting a correct status if the user revisits, but allows
-        // 'correct' to overwrite anything. Also allows 'incorrect' to overwrite 'skipped' if they try it later.
+    if (exercise) { // Ensure we have a valid exercise object
+        // Only update the internal status if the new status is 'correct', or if the current status
+        // is less definitive (pending, incorrect, skipped). This prevents lower statuses from overwriting 'correct'.
         if (newStatus === 'correct' || exercise.status === 'pending' || exercise.status === 'incorrect' || exercise.status === 'skipped') {
-             exercise.status = newStatus; // Update the internal status on the exercise object
+             exercise.status = newStatus;
         }
+    } else {
+        console.error(`Error: Exercise with ID ${exerciseId} not found in transformationExercises array.`);
+        return; // Exit function if exercise not found
     }
 
-    // Create list item if it doesn't exist
     if (!listItem) {
         listItem = document.createElement('li');
         listItem.id = `progress-q${exerciseId}`;
         exerciseProgressList.appendChild(listItem);
     }
 
-    // Update text content and class based on the exercise's *current* status
     switch (exercise.status) {
         case 'correct':
             listItem.textContent = `Question ${exerciseId}: ✔`;
@@ -630,28 +2279,25 @@ function updateExerciseProgress(exerciseId, newStatus) { // newStatus can be 'co
             listItem.className = 'incorrect-progress';
             break;
         case 'skipped':
-            listItem.textContent = `Question ${exerciseId}: ↷ (Skipped)`; // Using Unicode arrow for skipped
+            listItem.textContent = `Question ${exerciseId}: ↷ (Skipped)`;
             listItem.className = 'skipped-progress';
             break;
         case 'pending':
-        default:
+        default: // This catches any unhandled or default 'pending' cases
             listItem.textContent = `Question ${exerciseId}: Pending`;
-            listItem.className = ''; // No specific class, or 'pending-progress' if you define one
+            listItem.className = ''; // Or a specific 'pending-progress' class if you define one in CSS
             break;
     }
 }
 
 function loadExercise() {
-    // Handle the example exercise first (ID 0)
     const example = transformationExercises[0];
     const exampleInput = document.getElementById('exampleInput');
     const exampleFeedback = document.getElementById('exampleFeedback');
-    const exampleWordCount = document.getElementById('exampleWordCount');
 
-    // Reset example
     if (exampleInput) {
         exampleInput.value = "";
-        exampleInput.disabled = false; // Enable example input
+        exampleInput.disabled = false;
     }
     if (exampleFeedback) {
         exampleFeedback.style.display = 'none';
@@ -659,23 +2305,20 @@ function loadExercise() {
     }
     updateWordCount('exampleInput', 'exampleWordCount');
     if (showExampleAnswerBtn) {
-        showExampleAnswerBtn.style.display = 'inline-block'; // Show "Show Answer" button
+        showExampleAnswerBtn.style.display = 'inline-block';
     }
 
-
-    // Determine which exercise to load:
-    // If currentExerciseIndex is 0 (first load), set it to 1 to load the first *actual* exercise (ID 1).
-    // Otherwise, use the existing currentExerciseIndex.
+    // Ensure we start from the first actual exercise (ID 1) if current index is 0
     if (currentExerciseIndex === 0) {
         currentExerciseIndex = 1;
     }
 
     const exercise = transformationExercises[currentExerciseIndex];
 
-    if (!exercise) {
+    if (!exercise) { // No more exercises
         questionsContainer.innerHTML = "<p>All exercises completed! Great job!</p>";
         checkAnswersBtn.style.display = 'none';
-        skipExerciseBtn.style.display = 'none'; // Hide skip button on completion
+        skipExerciseBtn.style.display = 'none';
         nextExerciseBtn.style.display = 'none';
         exerciseFeedback.textContent = "You've finished all exercises!";
         exerciseFeedback.className = 'feedback-message correct';
@@ -683,6 +2326,7 @@ function loadExercise() {
         return;
     }
 
+    // Generate HTML for the current exercise
     questionsContainer.innerHTML = `
         <div class="transformation-question" data-id="${exercise.id}">
             <p>${exercise.id}. ${exercise.sentence1}</p>
@@ -693,30 +2337,50 @@ function loadExercise() {
         </div>
     `;
 
-    // Initialize word count for the loaded question
+    const currentInputField = document.getElementById(`q${exercise.id}Input`);
+    if (currentInputField) {
+        currentInputField.disabled = false; // Enable input for new questions
+    }
+
     updateWordCount(`q${exercise.id}Input`, `q${exercise.id}WordCount`);
 
-    exerciseFeedback.style.display = 'none'; // Hide general feedback
-    checkAnswersBtn.style.display = 'inline-block';
-    skipExerciseBtn.style.display = 'inline-block'; // Show skip button for new questions
-    nextExerciseBtn.style.display = 'none'; // Hide next until check or skip
+    exerciseFeedback.style.display = 'none'; // Hide general feedback message
+
+    // Control button visibility based on the status of the CURRENT exercise
+    if (exercise.status === 'correct') {
+        checkAnswersBtn.style.display = 'none';
+        skipExerciseBtn.style.display = 'none';
+        nextExerciseBtn.style.display = 'inline-block';
+        if (currentInputField) {
+            currentInputField.disabled = true; // Disable input for already correct questions
+            currentInputField.value = exercise.correctAnswer[0]; // Show the correct answer
+        }
+        const currentFeedbackLine = document.getElementById(`q${exercise.id}Feedback`);
+        if (currentFeedbackLine) {
+            currentFeedbackLine.textContent = `Correct!`;
+            currentFeedbackLine.className = 'feedback-line correct';
+            currentFeedbackLine.style.display = 'block';
+        }
+
+    } else { // For pending, incorrect, or skipped questions
+        checkAnswersBtn.style.display = 'inline-block';
+        skipExerciseBtn.style.display = 'inline-block';
+        nextExerciseBtn.style.display = 'none'; // Only show next after check/skip
+    }
 }
 
-
 function checkAnswers() {
-    // Check the example first
+    // --- Example Exercise Check ---
+    const example = transformationExercises[0];
     const exampleInput = document.getElementById('exampleInput');
     const exampleFeedback = document.getElementById('exampleFeedback');
-    const example = transformationExercises[0]; // The example exercise
     const exampleUserAnswer = exampleInput.value.trim().toLowerCase();
-    const exampleUserWords = exampleUserAnswer.split(/\s+/).filter(word => word !== '');
+    const exampleUserWords = exampleUserAnswer.split(/\s+/).filter(word => word !== '').length;
 
-    // Ensure feedback element is visible
-    exampleFeedback.style.display = 'block';
+    if (exampleFeedback) exampleFeedback.style.display = 'block';
 
     let isExampleCorrect = false;
-    const exampleWordCount = exampleUserWords.length;
-    if (exampleWordCount >= example.minWords && exampleWordCount <= example.maxWords) {
+    if (exampleUserWords >= example.minWords && exampleUserWords <= example.maxWords) {
         for (const correctOpt of example.correctAnswer) {
             if (exampleUserAnswer === correctOpt.toLowerCase() &&
                 exampleUserAnswer.includes(example.givenWord.toLowerCase())) {
@@ -726,31 +2390,34 @@ function checkAnswers() {
         }
     }
 
-
     if (isExampleCorrect) {
-        exampleFeedback.textContent = `Correct! (${exampleWordCount} words)`;
-        exampleFeedback.className = 'feedback-line correct';
-        exampleInput.disabled = true; // Disable example input if correct
-        showExampleAnswerBtn.style.display = 'none'; // Hide "Show Answer" button
-        updateExerciseProgress(example.id, 'correct'); // Update example progress
+        if (exampleFeedback) {
+            exampleFeedback.textContent = `Correct! (${exampleUserWords} words)`;
+            exampleFeedback.className = 'feedback-line correct';
+        }
+        if (exampleInput) exampleInput.disabled = true;
+        if (showExampleAnswerBtn) showExampleAnswerBtn.style.display = 'none';
+        updateExerciseProgress(example.id, 'correct');
     } else {
         let exampleFeedbackMessage = `Incorrect. `;
-        if (exampleWordCount < example.minWords || exampleWordCount > example.maxWords) {
-            exampleFeedbackMessage += `You must use between ${example.minWords} and ${example.maxWords} words. You used ${exampleWordCount}. `;
+        if (exampleUserWords < example.minWords || exampleUserWords > example.maxWords) {
+            exampleFeedbackMessage += `You must use between ${example.minWords} and ${example.maxWords} words. You used ${exampleUserWords}. `;
         } else if (!exampleUserAnswer.includes(example.givenWord.toLowerCase())) {
             exampleFeedbackMessage += `You must use the word "${example.givenWord}". `;
         }
-        if (exampleFeedbackMessage === `Incorrect. `) { // If only "Incorrect." is left, suggest show answer
+        if (exampleFeedbackMessage === `Incorrect. `) {
              exampleFeedbackMessage += `Review instructions or use "Show Answer".`;
         }
-        exampleFeedback.textContent = exampleFeedbackMessage;
-        exampleFeedback.className = 'feedback-line incorrect';
+        if (exampleFeedback) {
+            exampleFeedback.textContent = exampleFeedbackMessage;
+            exampleFeedback.className = 'feedback-line incorrect';
+        }
     }
 
 
-    // Now check the current actual exercise
+    // --- Current Main Exercise Check ---
     const exercise = transformationExercises[currentExerciseIndex];
-    if (!exercise) return; // Should not happen if loadExercise handles completion
+    if (!exercise) return;
 
     const inputField = document.getElementById(`q${exercise.id}Input`);
     const feedbackLine = document.getElementById(`q${exercise.id}Feedback`);
@@ -762,7 +2429,6 @@ function checkAnswers() {
     const userWords = userAnswer.split(/\s+/).filter(word => word !== '');
     const wordCount = userWords.length;
 
-    // Ensure feedback element is visible
     feedbackLine.style.display = 'block';
 
     let isCurrentExerciseCorrect = false;
@@ -785,8 +2451,9 @@ function checkAnswers() {
         if (exercise.status !== 'correct') { // Only increment if not already marked correct
             score++;
             exercisesCompleted++;
-            updateExerciseProgress(exercise.id, 'correct'); // Update progress as correct
+            updateExerciseProgress(exercise.id, 'correct');
         }
+        inputField.disabled = true; // Disable input if correct
     } else {
         currentExerciseFeedbackMessage = "Incorrect. ";
         if (wordCount < exercise.minWords || wordCount > exercise.maxWords) {
@@ -800,18 +2467,17 @@ function checkAnswers() {
         feedbackLine.className = 'feedback-line incorrect';
         failSound.play();
         if (exercise.status !== 'correct') { // Don't overwrite 'correct' if already correct
-            updateExerciseProgress(exercise.id, 'incorrect'); // Update progress as incorrect
+            updateExerciseProgress(exercise.id, 'incorrect');
         }
     }
     feedbackLine.textContent = currentExerciseFeedbackMessage;
-
 
     currentScoreSpan.textContent = score;
     exercisesCompletedSpan.textContent = exercisesCompleted;
 
     nextExerciseBtn.style.display = 'inline-block';
-    checkAnswersBtn.style.display = isCurrentExerciseCorrect ? 'none' : 'inline-block'; // Hide check if correct
-    skipExerciseBtn.style.display = 'inline-block'; // Keep skip visible
+    checkAnswersBtn.style.display = isCurrentExerciseCorrect ? 'none' : 'inline-block';
+    skipExerciseBtn.style.display = 'inline-block';
 }
 
 function showExampleAnswer() {
@@ -820,27 +2486,24 @@ function showExampleAnswer() {
     const exampleFeedback = document.getElementById('exampleFeedback');
 
     if (exampleInput && exampleFeedback) {
-        // Display the first correct answer from the array
         exampleInput.value = example.correctAnswer[0];
         updateWordCount('exampleInput', 'exampleWordCount');
         exampleFeedback.textContent = `Correct Answer: "${example.correctAnswer[0]}"`;
         exampleFeedback.className = 'feedback-line correct';
         exampleFeedback.style.display = 'block';
-        exampleInput.disabled = true; // Disable input after showing answer
-        showExampleAnswerBtn.style.display = 'none'; // Hide the button
-        updateExerciseProgress(example.id, 'correct'); // Mark example as correct in sidebar
+        exampleInput.disabled = true;
+        showExampleAnswerBtn.style.display = 'none';
+        updateExerciseProgress(example.id, 'correct');
     }
 }
 
-// NEW: Function to handle skipping an exercise
 function skipExercise() {
     const exercise = transformationExercises[currentExerciseIndex];
     if (exercise && exercise.status !== 'correct') { // Only mark as skipped if not already correct
         updateExerciseProgress(exercise.id, 'skipped');
     }
-    nextExercise(); // Move to the next exercise
+    nextExercise();
 }
-
 
 function nextExercise() {
     currentExerciseIndex++;
@@ -849,7 +2512,7 @@ function nextExercise() {
     } else {
         questionsContainer.innerHTML = "<p>All exercises completed! Great job!</p>";
         checkAnswersBtn.style.display = 'none';
-        skipExerciseBtn.style.display = 'none'; // Hide skip button on completion
+        skipExerciseBtn.style.display = 'none';
         nextExerciseBtn.style.display = 'none';
         exerciseFeedback.textContent = "You've finished all exercises!";
         exerciseFeedback.className = 'feedback-message correct';
@@ -857,9 +2520,8 @@ function nextExercise() {
     }
 }
 
-// Event Listeners
 checkAnswersBtn.addEventListener('click', checkAnswers);
-skipExerciseBtn.addEventListener('click', skipExercise); // Event listener for skip button
+skipExerciseBtn.addEventListener('click', skipExercise);
 nextExerciseBtn.addEventListener('click', nextExercise);
 showExampleAnswerBtn.addEventListener('click', showExampleAnswer);
 
@@ -871,18 +2533,16 @@ searchExternalDictionaryBtn.addEventListener('click', () => {
     }
 });
 
-// Initial load
 document.addEventListener('DOMContentLoaded', () => {
     console.log("DOM content loaded. Initializing progress list.");
-    // Ensure the list is cleared before re-populating to prevent duplicates on some reloads
-    exerciseProgressList.innerHTML = '';
+    exerciseProgressList.innerHTML = ''; // Clear existing list items
 
-    // Initialize the status for all exercises (including the example) and build the progress list
     transformationExercises.forEach(exercise => {
-        if (!exercise.status) { // Ensure status property exists, default to 'pending'
+        // Ensure every exercise object has a status, default to 'pending'
+        if (!exercise.status) {
             exercise.status = 'pending';
         }
-        updateExerciseProgress(exercise.id, exercise.status); // Use the unified function
+        updateExerciseProgress(exercise.id, exercise.status); // Call to add to sidebar
         console.log(`Initialized Question ${exercise.id} with status: ${exercise.status}.`);
     });
 
